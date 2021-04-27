@@ -6,7 +6,7 @@ tags: [GitHub]
 comments: true
 ---
 
-# 1. GitHun Repository 생성
+# 1. GitHub Repository 생성
 
 
 # 2. 테마 고르기
