@@ -6,7 +6,14 @@ tags: [GitHub]
 comments: true
 ---
 
-# 1. GitHub Repository 생성
+## 1. GitHub Repository 생성
+**{GitHub 이름}.github.io**  
+Repository를 생성하면 자동으로 GitHub에서 정적웹사이트 호스팅을 지원해줍니다.
+
+Repository 이름 = GitHub블로그 주소
+
+접속하면 제목만 있는 README파일의 내용이 사이트에 그대로 노출이 됩니다.
+보다 쉽게 사이트를 만들기 위해 Jekyll을 이용합니다.
 
 
 # 2. 테마 고르기
