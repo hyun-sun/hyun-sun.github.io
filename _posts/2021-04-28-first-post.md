@@ -49,7 +49,7 @@ ruby -v
 ```
 저는 Mac 을 사용하고 있기 때문에 현재 상용버전보다 낮은 버전이 설치되어 있었고 명령어를 날렸을때 Permission 오류가 발생해서 이 해결방안까지 포함하여 내용을 작성하겠습니다.
 
-Window 환경이라면 https://www.ruby-lang.org/ko/downloads/ 사이트에 접속해서 설치.
+Window 환경이라면 [https://www.ruby-lang.org/ko/downloads/](https://www.ruby-lang.org/ko/downloads/) 사이트에 접속해서 설치.
 
 (Homebrew 를 이미 설치한 환경)  
 (이미 설치를 마치고 글을 작성하기 때문에 중간과정은 없습니다.)
