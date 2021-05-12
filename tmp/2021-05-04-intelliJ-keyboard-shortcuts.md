@@ -38,3 +38,14 @@ comments: true
 |⌘,|Ctrl + Alt + S|Open Settings dialog|
 |⌘;|Ctrl + Alt + Shift + S|Open Project Structure dialog|
 |⌘⇧A|Ctrl + Shift + A|Find Action|
+
+## DEBUGGING
+|Mac|Window|Action|
+|---|---|---|
+|F8/F7|F8/F7|Step over / into|
+|⇧F7 / ⇧F8|Shift + F7 / Shift + F8|Smart step into / Step out|
+|⌥F9|Alt + F9|Run to cursor|
+|⌥F8|Alt + F8|Evaluate expression|
+|⌘⌥R|F9|Resume program|
+|⌘F8|Ctrl + F8|Toggle breakpoint|
+|⌘⇧F8|Ctrl + Shift + F8|View breakpoints|
